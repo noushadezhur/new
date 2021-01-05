@@ -15,7 +15,7 @@ h1 strong{
 	font-weight: 900;
 }
 h2{
-	text-transform: lowercase;
+	text-transform: uppercase;
 	line-height: 20px;
 	margin:  0;
 }
@@ -80,7 +80,7 @@ ul, ol{
 	border-color: rgba(231, 231, 231, 0);
 }
 #tf-menu a.navbar-brand {
-text-transform: uppercase;
+text-transform: lowercase;
 font-size: 22px;
 color: #fff;
 font-weight: 900;
