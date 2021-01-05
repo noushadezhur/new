@@ -184,7 +184,7 @@ ul.about-list li span{
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	color: #ffffff;
 }
 #tf-team .overlay{
