@@ -15,7 +15,7 @@ h1 strong{
 	font-weight: 900;
 }
 h2{
-	text-transform: uppercase;
+	text-transform: lowercase;
 	line-height: 20px;
 	margin:  0;
 }
