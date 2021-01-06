@@ -80,7 +80,7 @@ ul, ol{
 	border-color: rgba(231, 231, 231, 0);
 }
 #tf-menu a.navbar-brand {
-text-transform: uppercase;
+text-transform: lowercase;
 font-size: 62px;
 	
 color: #fff;
