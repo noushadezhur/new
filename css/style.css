@@ -562,7 +562,7 @@ nav#footer p{
 	border: 2px solid #8c8c8c;
 	font-size: 20px;
 	padding: 4px 5px;
-	border-radius: 50%;
+	border-radius: 100%;
 	color: #8c8c8c;
 	transition: all 0.5s;
 }
