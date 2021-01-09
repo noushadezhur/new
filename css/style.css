@@ -147,7 +147,7 @@ font-weight: 900;
 }
 
 .color{
-	color: #fcac45;
+	color: #fc6f34;
 }
 
 a.fa.fa-angle-down {
@@ -160,7 +160,7 @@ a.fa.fa-angle-down {
 	transition: all 0.5s;
 }
 a.fa.fa-angle-down:hover{
-	background: #fcac45;
+	background: #fc6f34;
 	color: #ffffff;
 	border: 2px solid #fcac45;
 }
@@ -208,7 +208,7 @@ ul.about-list li span{
 	font-weight: 300;
 }
 .section-title.center .line{
-	border-top: 4px solid #fcac45;
+	border-top: 4px solid #fc6f34;
 	height: 10px;
 	width: 60px;
 	text-align: center;
